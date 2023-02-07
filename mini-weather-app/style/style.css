@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body {
+    background-color: rgb(109, 193, 214);
+}
+
+
+.card {
+    margin: 95px 500px;
+    border:  3px solid rgb(224, 226, 76);
+    border-radius: 10px;
+    padding: 25px 7px 30px 7px;
+    background-color: rgba(229, 231, 77, 0.788);
+}
+
+#btn{
+    border: 2px solid rgb(224, 226, 76);
+    border-radius: 20px;
+    padding: 8px 10px;
+    font-weight: bold;
+    
+}
+
+#search-input {
+    padding: 15px 40px;
+    border: 2px solid rgb(224, 226, 76);
+    border-radius: 20px;
+}
+
+
+
+.info {
+    margin:  30px 20px;
+    color: rgb(16, 22, 146);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.7;
+}
